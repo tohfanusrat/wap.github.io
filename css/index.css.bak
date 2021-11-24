@@ -41,7 +41,3 @@ body{
 	width:100px;
 	height:70px;
 }
-.footer img{
-	width:100px;
-	height:70px;
-}
