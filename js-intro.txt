@@ -15,7 +15,7 @@ Problem1
     console.log(sum(arr));
 
 Problem2
-    var str= ["pqrsta", "sdf", "pqr","ajklsdf"];
+    var str= ["Tohfa", "Abedin", "john","Nusrat"];
     let getNewArray = function(params) {
     var i= 0;
     var newarr = [];
