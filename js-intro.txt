@@ -7,8 +7,8 @@ Problem1
       for(i; i<arr.length;i++){
         if (params[i] >20){
           var sum =sum+params[i];
-        }<br>
-      }<br>
+        }
+      }
       alert(sum);
     }
     sum(arr);
