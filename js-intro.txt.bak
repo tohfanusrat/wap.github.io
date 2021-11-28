@@ -14,7 +14,7 @@ Problem1
     sum(arr);
     console.log(sum(arr));
 
-    Problem2
+    <p>Problem2</p>
     var str= ["pqrsta", "sdf", "pqr","ajklsdf"];
     let getNewArray = function(params) {
     var i= 0;
