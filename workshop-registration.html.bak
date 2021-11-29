@@ -80,7 +80,7 @@
                 <form>
                     <div class="input-field">
                         <label for="meal">Meal Preference </label>
-                        <select id="meal" name="country">
+                        <select id="country" name="country">
                             <option value="vegetarian">Vegetarian</option>
                             <option value="Meditarian">Meditarian</option>
                             <option value="Nonveg">Non-veg</option>
