@@ -89,9 +89,9 @@
                     <div class="input-field">
                        <p><a href="#">Payment Details</a></p>
                        <label for="mode">Payment Mode</label>
-                       <input type="checkbox" id="mode" name="cash">Cash<br>
-                       <input class="space" type="checkbox" id="mode" name="check">Check<br>
-                       <input class="space" type="checkbox" id="mode" name="demand-draft">Demand Draft
+                       <input type="checkbox" id="mode1" name="cash">Cash<br>
+                       <input class="space" type="checkbox" id="mode2" name="check">Check<br>
+                       <input class="space" type="checkbox" id="mode3" name="demand-draft">Demand Draft
                     </div>
                     <div class="input-field">
                        <label for="chequeno">DD/ Cheque No.</label>
