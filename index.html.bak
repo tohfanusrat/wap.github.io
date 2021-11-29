@@ -30,7 +30,7 @@
       <div class="validator">
         <div class="footer">        
           <a href="https://validator.w3.org/nu/?doc=https://tohfanusrat.github.io/wap.github.io/"><img src="images/HTML-checker.png" alt="html validator"/>
-          </a> <a href="http://jigsaw.w3.org/css-validator/validator?uri=https://github.com/tohfanusrat/wap.github.io/blob/main/css/index.css"><img src="images/css_checker.png" alt="css validator"/></a>
+          </a> <a href="https://validator.w3.org/nu/?doc=https://github.com/tohfanusrat/wap.github.io/blob/main/css/index.css"><img src="images/css_checker.png" alt="css validator"/></a>
             
         </div>
       </div>
