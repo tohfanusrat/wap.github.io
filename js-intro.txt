@@ -15,8 +15,6 @@ Problem1
     console.log(sum(arr));
 
 Problem2
-    var str= ["Tohfa", "Abedin", "john","Nusrat"];
-    let getNewArray = function(arr) {
-    return arr.filter(s => s.length >= 5 && s.toLowerCase().includes('a'));
-        };
-	console.log(getNewArray(str));
+    let str= ['Tohfa', 'Nusrat', 'Zina', 'Mahbub'];
+    let res = str(name => name.includes('a') && name.length >= 5);
+    console.log(res);
