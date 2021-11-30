@@ -16,5 +16,7 @@ Problem1
 
 Problem2
     let str= ['Tohfa', 'Nusrat', 'Zina', 'Mahbub'];
-    let res = str(name => name.includes('a') && name.length >= 5);
-    console.log(res);
+    let res = function (str){
+    return str.filter(name => name.includes('a') && name.length >= 5)
+    };
+    console.log(res(str));
